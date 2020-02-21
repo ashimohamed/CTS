@@ -1,0 +1,1 @@
+C:\Users\602495\AppData\Local\UiPath\app-19.5.0\uirobot -f C:\Users\602495\Documents\UiPath\CTS\traveldesk.xaml
